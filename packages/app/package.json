@@ -5,6 +5,7 @@
   "type": "module",
   "main": "src/index.js",
   "dependencies": {
-    "@mkpoli-arithmetic/plus": "^0.0.0"
+    "@mkpoli-arithmetic/plus": "^0.0.0",
+    "@mkpoli-arithmetic/minus": "^0.0.0"
   }
 }
