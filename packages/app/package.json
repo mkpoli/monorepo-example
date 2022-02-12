@@ -1,11 +1,11 @@
 {
   "name": "@mkpoli-arithmetic/app",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "main": "dist/index.esm.js",
   "dependencies": {
-    "@mkpoli-arithmetic/plus": "^0.0.0",
-    "@mkpoli-arithmetic/minus": "^0.0.0"
+    "@mkpoli-arithmetic/minus": "^0.1.0",
+    "@mkpoli-arithmetic/plus": "^0.1.0"
   }
 }

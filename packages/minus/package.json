@@ -1,6 +1,6 @@
 {
   "name": "@mkpoli-arithmetic/minus",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "browser": "dist/index.umd.js",
@@ -14,6 +14,6 @@
     "dist"
   ],
   "dependencies": {
-    "@mkpoli-arithmetic/plus": "^0.0.0"
+    "@mkpoli-arithmetic/plus": "^0.1.0"
   }
 }
