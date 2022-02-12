@@ -7,7 +7,7 @@
     "clean": "lerna exec -- rimraf dist/",
     "build": "lerna exec -- rollup -c ../../rollup.config.js",
     "start": "node packages/app",
-    "publish": "lerna publish",
+    "publish": "lerna publish --no-private",
     "release": "run-s bootstrap clean build test publish"
   },
   "devDependencies": {
