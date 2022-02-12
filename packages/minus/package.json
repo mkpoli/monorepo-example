@@ -2,7 +2,7 @@
   "name": "@mkpoli-arithmetic/minus",
   "version": "0.0.0",
   "type": "module",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "dependencies": {
     "@mkpoli-arithmetic/plus": "^0.0.0"
   }

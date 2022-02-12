@@ -2,5 +2,5 @@
   "name": "@mkpoli-arithmetic/plus",
   "version": "0.0.0",
   "type": "module",
-  "main": "src/index.js"
+  "main": "dist/index.js"
 }
